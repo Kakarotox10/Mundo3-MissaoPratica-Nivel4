@@ -3,23 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/ProdutoFacade.java</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/PessoaFisicaFacadeLocal.java</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/MovimentoFacadeLocal.java</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/PessoaJuridicaFacade.java</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/conf/persistence.xml</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/MovimentoFacade.java</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/ProdutoFacadeLocal.java</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/PessoaJuridicaFacadeLocal.java</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/UsuarioFacade.java</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/conf/glassfish-resources.xml</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/model/Movimento.java</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/PessoaFacadeLocal.java</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/UsuarioFacadeLocal.java</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/PessoaFisicaFacade.java</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/PessoaFacade.java</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/model/Pessoa.java</file>
-            <file>file:/C:/Workspace/muto/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/AbstractFacade.java</file>
+            <file>file:/C:/Workspace/TrabalhoMundo3Nivel4/CadastroEE/CadastroEE-ejb/src/conf/persistence.xml</file>
         </group>
     </open-files>
 </project-private>
